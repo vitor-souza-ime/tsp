@@ -173,8 +173,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ## 📬 **Contact**
 
 Have questions or suggestions?
-📧 **\[[your\_email@example.com](mailto:your_email@example.com)]**
-Or open an **issue** on GitHub.
+Open an **issue** on GitHub.
 
 ---
 
