@@ -1,6 +1,3 @@
-Aqui está uma versão aprimorada e decorada do seu `README.md`, com **negritos**, ✅ *emojis*, e seções organizadas para melhorar a legibilidade no GitHub. Também inclui sugestões de onde inserir **figuras** (como imagens geradas ou capturas de tela) para torná-lo mais visualmente atraente.
-
----
 
 # 🚀 **TSP Solver: CPU vs GPU Performance Comparison**
 
